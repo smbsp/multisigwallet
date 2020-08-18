@@ -8,8 +8,8 @@ Let’s say that Alice, Bob, and Charlie all want to open a business together an
 
 ## Demo
 
-The application is deployed in Kovan Test Net.
-Application URL: Click Here[https://affectionate-beaver-fa8b2a.netlify.app]
+The application is deployed in Kovan Test Net.<br/>
+Application URL: Click Here(https://affectionate-beaver-fa8b2a.netlify.app])<br/>
 Contract Address: 0x273d485c9f03835D9a54b43BfBbDd1981a05D1CB
 
 ## Things I learnt #BUIDLing this application
